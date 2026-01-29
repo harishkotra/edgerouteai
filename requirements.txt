@@ -1,0 +1,11 @@
+agno
+ollama
+openai
+fastapi
+uvicorn
+pydantic
+python-dotenv
+psutil
+speedtest-cli
+requests
+httpx
