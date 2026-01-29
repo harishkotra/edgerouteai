@@ -4,6 +4,9 @@ EdgeRouteAI is a hybrid AI agent orchestration system designed to optimize cost 
 
 It leverages **Agno** for multi-agent orchestration, **Ollama** for local inference on edge devices, and **AIsa.one** for powerful cloud fallback when tasks exceed local capabilities.
 
+<img width="1107" height="855" alt="Screenshot at Jan 30 00-20-42" src="https://github.com/user-attachments/assets/c7221306-cf2a-4af0-9d7e-1e4a39d6345d" />
+
+
 ## 🚀 Key Features
 
 - **Hybrid Intelligence**: Routes simple/fast tasks to local (free) models and complex/reasoning-heavy tasks to the cloud (paid).
